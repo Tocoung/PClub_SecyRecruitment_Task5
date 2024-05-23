@@ -1,0 +1,1 @@
+In a same Directory have all the input files as well as the code.py file from here. Then in VSCode open the folder and go to the code.py file and run it to get teh 2 new csv files as stats.csv and allot.csv.
